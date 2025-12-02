@@ -20,7 +20,7 @@ author: Brochacho2
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Information"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -260,7 +260,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Central Standard Time"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
